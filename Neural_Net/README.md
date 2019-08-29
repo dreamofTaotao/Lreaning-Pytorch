@@ -17,3 +17,6 @@
 
 > #### [6.Learning_torch_nnModule.py](https://github.com/dreamofTaotao/Lreaning-Pytorch/blob/master/Neural_Net/Learning_torch_nnModule.py)
 >> ##### 将整个正向传播与反向传播进行封装类，继承nn.Module()类。
+
+### 备注：
+### 每个.py文件中均包含课前知识、代码注释及代码的思考。【课前知识部分相对重要一些】
